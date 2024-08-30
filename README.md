@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maaz Ahmad
 - 🎓 I hold a Bachelor's degree in Software Engineering.
 - 👀 I'm passionate about Full Stack Web and Mobile App Development.
-- 🌱 I’m currently working on CakePhp, Laravel, MySql and React Native
+- 🌱 I’m currently working on NodeJs, CakePhp, Laravel, MySql, Mongodb and React Native
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/maaz-ahmad-3709241a6/), or via email at [ahmadmaaz0333@gmail.com](mailto:ahmadmaaz0333@gmail.com).
 
 <!---
