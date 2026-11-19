@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Maaz Ahmad.<br>🤖 I’m an AI-First Software Engineer with a Bachelor’s degree in Software Engineering.<br>🧠 I build intelligent applications using Python, FastAPI, LangGraph, RAG, Claude, and Pydantic.<br>⚙️ I also have experience with backend development, DevOps, JavaScript, Node.js, Express, MySQL, Cloudflare, and Terraform.<br>📫 Connect with me on [LinkedIn (https://www.linkedin.com/in/maaz-ahmad-3709241a6/)] or email me at ahmadmaaz0333@gmail.com.
+👋 Hi, I’m Maaz Ahmad.<br>🤖 I’m an AI-First Software Engineer with a Bachelor’s degree in Software Engineering.<br>🧠 I build intelligent applications using Python,Node.js, FastAPI, Express.js, Nest.js LangGraph, RAG, Claude, and Pydantic.<br>⚙️ I also have experience with Backend Development, DevOps, JavaScript, Node.js, Express, MySQL, Cloudflare, Linux and Terraform.<br>📫 Connect with me on [LinkedIn (https://www.linkedin.com/in/maaz-ahmad-3709241a6/)] or email me at ahmadmaaz0333@gmail.com.
 
 
 ## 🌐 Socials:
